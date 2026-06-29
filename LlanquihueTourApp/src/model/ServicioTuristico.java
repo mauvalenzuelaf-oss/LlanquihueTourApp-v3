@@ -2,7 +2,7 @@ package model;
 
 /**
  * Representa un servicio turístico ofrecido por Llanquihue Tour.
- * Cada tour contiene nombre, tipo, ubicación y precio para adulto.
+ * Cada tour un nombre y una duración expresada en horas.
  */
 public class ServicioTuristico {
 
