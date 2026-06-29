@@ -48,6 +48,8 @@ La clase `GestorServicios` crea dos objetos de cada subclase. Posteriormente, la
 │
 ├── 📁 LlanquihueTourApp/
 │   │
+│   ├── 📄 LlanquihueTourApp.iml
+│   │
 │   └── 📁 src/
 │       │
 │       ├── 📁 data/
