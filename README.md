@@ -62,7 +62,10 @@ La clase `GestorServicios` crea dos objetos de cada subclase. Posteriormente, la
 │       └── 📁 ui/
 │           └── Main.java
 │
+├── 📄 gitignore
+│
 └── 📄 README.md
+
 ```
 
 ---
