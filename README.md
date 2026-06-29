@@ -69,7 +69,12 @@ La clase `GestorServicios` crea dos objetos de cada subclase. Posteriormente, la
 └── 📄 README.md
 
 ```
+Aclaración:
+```plaintext
+La carpeta `LlanquihueTourApp-v3` corresponde a la raíz del repositorio de GitHub.
 
+La carpeta interior `LlanquihueTourApp` corresponde al proyecto que debe abrirse en IntelliJ IDEA. El código fuente está ubicado en `LlanquihueTourApp/src` y la clase principal se encuentra en `LlanquihueTourApp/src/ui/Main.java`.
+```
 ---
 
 ## 🧩 Organización por paquetes
