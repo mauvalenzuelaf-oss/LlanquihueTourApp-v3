@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Semana 6: Evaluación Formativa 4 – Desarrollo Orientado a Objetos I
+# 🧠 Semana 6 - Evaluación Formativa N° 4 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Mauricio Francisco Valenzuela Fuentes
@@ -10,7 +10,7 @@
 
 ## 📘 Descripción general del sistema
 
-Este proyecto corresponde a la **Evaluación Formativa N.º 4** de la asignatura *Desarrollo Orientado a Objetos I*.
+Este proyecto corresponde a la **Evaluación Formativa Nº 4** de la asignatura *Desarrollo Orientado a Objetos I*.
 
 Se trata de una nueva ampliación de **LlanquihueTourApp**, en la cual se representan diferentes servicios turísticos ofrecidos por la empresa **Llanquihue Tour**.
 
