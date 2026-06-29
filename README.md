@@ -113,7 +113,7 @@ Ejecuta el sistema, solicita al gestor la creación de los servicios turísticos
 1. Clona el repositorio desde GitHub:
 
 ```plaintext
-git clone https://github.com/mauvalenzuelaf-oss/LlanquihueTourApp.git
+git clone https://github.com/mauvalenzuelaf-oss/LlanquihueTourApp-v3.git
 ```
 
 2. Abre la carpeta descargada:
